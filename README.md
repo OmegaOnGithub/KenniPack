@@ -1,1 +1,1 @@
-# KennyPack
+# KenniPack
